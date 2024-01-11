@@ -1,0 +1,26 @@
+footer {
+    background-color: red;
+}
+
+header {
+    border-style: solid;
+    border-color: green;
+}
+
+a {
+    background-color: Red;
+}
+
+
+
+.link {
+    background-color: purple;
+}
+
+header .link {
+    background-color: Black;
+}
+
+a:hover {
+    background-color: Red;
+}
